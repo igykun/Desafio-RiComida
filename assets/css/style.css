@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Lobster&display=swap');
+
+/* 
+*{
+    margin:0 !important;
+    padding: 0 !important;
+} 
+    */
+
+body {
+    font-family: "Cabin";
+}
+
+.navbar-brand {
+    font-family: "Lobster";
+    font-weight: 400;
+    font-size: 37px;
+}
+
+#Rico {
+    font-family: "Lobster";
+}
+.Ricomida {
+    font-family: "Lobster";
+    font-weight: 400;
+}
+h1{
+    font-size: 40px;
+    margin: 20px 0px 0px 0px;
+}
+ul {
+    list-style: none;
+}
+.ingredientes {
+    margin: 0px 0px 15px 32px;
+}
+#receta {
+    font-size: 20px;
+}
+.bar {
+    height: 1px;
+    background-color: #aaa;
+}
+
+.carousel-indicators {
+    margin: 0px;
+    height: 0px;
+    width: 100%;
+}
+
+
+
+.carousel-indicators li.indicator{
+    /* margin-top: 50px; */
+    width: 10px;
+    height: 10px;
+    background-color: #333a40;
+    border-radius: 50%;
+    list-style: none;
+}
